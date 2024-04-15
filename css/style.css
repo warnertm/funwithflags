@@ -1,0 +1,54 @@
+body {
+    background-color: grey;
+    text-align: center;
+    margin: auto;
+}
+
+.border {
+    border: black;
+    border: solid;
+    height: 300px;
+    width: 600px;
+    position: ;
+}
+
+.red {
+    background-color: red;
+    height: 100px;
+}
+
+.white {
+    background-color: white;
+    height: 100px;
+}
+
+
+.top {
+    background-color: orange;
+    height: 33%;
+}
+
+.mid {
+    background-color: white;
+    height: 33%;
+}
+
+.bottom {
+    background-color: green;
+    height: 33%;
+}
+
+.skyblue {
+    background-color: lightskyblue;
+    height: 25%;
+}
+
+.wht {
+    background-color: white;
+    height: 10%;
+}
+
+.black {
+    background-color: black;
+    height: 30%;
+}
